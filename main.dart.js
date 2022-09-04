@@ -46787,7 +46787,7 @@ $S:0}
 A.LF.prototype={
 an(){return new A.a2b(B.w)}}
 A.a2b.prototype={
-O(a,b){var s,r=this,q=null,p=4283742593,o=A.t(q,A.aC8("portrait.jpg",B.uS,q,q,q),q,q,q,600,q,q,q,q),n=A.t(q,q,q,q,B.uR,250,q,q,q,400),m=A.bd(A.lh(A.Am(A.a([A.H9("Programmer"," |",B.fm),A.H9("Graphic Designer"," |",B.fm),A.H9("Voice Over"," |",B.fm)],t.u6),!0,3),q,B.bx,!0,B.a_h,q,q,B.aA),q,q),l=r.d,k=A.bv(q,A.dw(A.cf(B.AM,l===0?B.D:B.n,q),B.bH,q,q,new A.axt(r),new A.axu(r)),B.E,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.axv(),q,q,q,q,q,q),j=A.bv(q,A.dw(A.cf(B.AN,l===1?B.D:B.n,q),B.bH,q,q,new A.axG(r),new A.axK(r)),B.E,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.axL(),q,q,q,q,q,q),i=t.p
+O(a,b){var s,r=this,q=null,p=4283742593,o=A.t(q,A.aC8("assets/portrait.jpg",B.uS,q,q,q),q,q,q,600,q,q,q,q),n=A.t(q,q,q,q,B.uR,250,q,q,q,400),m=A.bd(A.lh(A.Am(A.a([A.H9("Programmer"," |",B.fm),A.H9("Graphic Designer"," |",B.fm),A.H9("Voice Over"," |",B.fm)],t.u6),!0,3),q,B.bx,!0,B.a_h,q,q,B.aA),q,q),l=r.d,k=A.bv(q,A.dw(A.cf(B.AM,l===0?B.D:B.n,q),B.bH,q,q,new A.axt(r),new A.axu(r)),B.E,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.axv(),q,q,q,q,q,q),j=A.bv(q,A.dw(A.cf(B.AN,l===1?B.D:B.n,q),B.bH,q,q,new A.axG(r),new A.axK(r)),B.E,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.axL(),q,q,q,q,q,q),i=t.p
 j=A.t(q,A.h7(B.bn,A.a([o,new A.eh(B.hc,q,q,n,q),A.aY(A.a([B.v6,m,B.L4,A.aBZ(!0,new A.J(B.Al,A.aH(A.a([B.ar,k,new A.J(B.At,j,q),A.dw(A.bv(q,A.cf(B.AO,l===2?B.D:B.n,q),B.E,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.axM(),q,q,q,q,q,q),B.bH,q,q,new A.axN(r),new A.axO(r)),B.ar],i),B.m,q,B.S,B.k,q,q),q),q,B.u,B.bt,100,!1)],i),B.m,B.kA,B.k,B.z)],i),B.a1,B.bc),B.xZ,q,q,600,q,q,q,400)
 k=A.t(q,q,B.x,q,q,30,q,q,q,q)
 m=r.f
