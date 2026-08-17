@@ -400,6 +400,15 @@
   "certificates": [
     {
       "id": 1,
+      "title": "Data Structures And Algorithms",
+      "description": "Completed a course covering the fundamentals of data structures and algorithms, including Big O notation, recursion, sorting, searching, stacks, queues, trees, and graphs, with practical problem-solving challenges.",
+      "issuedBy": "Scrimba",
+      "issuedAt": "2026",
+      "image": "/certificates/dsa.png",
+      "pdfUrl": "/certificates/dsa.pdf"
+    },
+    {
+      "id": 2,
       "title": "Full-Stack Developer Path",
       "description": "Focused on skills from the JavaScript ecosystem, including React, Node, Express, Next, TypeScript, and even AI engineering.",
       "issuedBy": "Scrimba",
@@ -408,7 +417,7 @@
       "pdfUrl": "/certificates/fullstack_path.pdf"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Experience Certificate - Wordpress Developer",
       "description": "Gained hands-on experience in WordPress development, including website customization, plugin integration, and performance optimization.",
       "issuedBy": "Orienteed Digital Solutions",
@@ -417,7 +426,7 @@
       "pdfUrl": "/certificates/orienteed_certificate.pdf"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Web Development Certificate",
       "description": "Focused on web development fundamentals with HTML, CSS, and JavaScript, building a solid foundation for modern front-end and full-stack development.",
       "issuedBy": "Gaza Sky Geeks",
@@ -426,7 +435,7 @@
       "pdfUrl": "/certificates/Web_gsg.pdf"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Experience Certificate - Sales Team Supervisor",
       "description": "Focused on sales team leadership, performance management, customer engagement, and driving business growth through field sales strategies.",
       "issuedBy": "Palestine Cellular Communications/JAWWAL",
@@ -435,7 +444,7 @@
       "pdfUrl": "/certificates/jawwal.pdf"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "EF SET English Certificate",
       "description": "Achieved proficiency in English communication, enhancing professional and academic writing skills.",
       "issuedBy": "EF SET",
