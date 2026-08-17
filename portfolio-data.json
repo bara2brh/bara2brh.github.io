@@ -1,0 +1,447 @@
+{
+  "profile": {
+    "id": 1,
+    "name": "Bara' Hashlamoon",
+    "title": "Full Stack Web & Mobile Developer",
+    "avatarUrl": "/pfp.png",
+    "status": "System Online"
+  },
+  "links": [
+    {
+      "id": 1,
+      "title": "Projects",
+      "subtitle": "View latest projects",
+      "url": "/projects",
+      "status": "active",
+      "orderIndex": 0
+    },
+    {
+      "id": 2,
+      "title": "Certificates",
+      "subtitle": "Professional learning highlights",
+      "url": "/certificates",
+      "status": "active",
+      "orderIndex": 1
+    },
+    {
+      "id": 3,
+      "title": "GitHub Profile",
+      "subtitle": "Explore my code repositories",
+      "url": "https://github.com/bara2brh",
+      "status": "active",
+      "orderIndex": 2
+    },
+    {
+      "id": 4,
+      "title": "LinkedIn Profile",
+      "subtitle": "Professional network",
+      "url": "https://linkedin.com/in/bara-hashlamoon",
+      "status": "active",
+      "orderIndex": 3
+    },
+    {
+      "id": 5,
+      "title": "Email Me",
+      "subtitle": "Reach out via email",
+      "url": "mailto:bara.hashlamoon@gmail.com",
+      "status": "active",
+      "orderIndex": 4
+    },
+    {
+      "id": 6,
+      "title": "WhatsApp Contact",
+      "subtitle": "Direct secure line",
+      "url": "https://wa.me/+972592455301",
+      "status": "active",
+      "orderIndex": 5
+    },
+    {
+      "id": 7,
+      "title": "My Resume",
+      "subtitle": "My latest resume and work experience",
+      "url": "/resume.pdf",
+      "status": "active",
+      "orderIndex": 6
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Stay4Dentist Platform",
+      "description": "Platform for Community of Clinical Dental Internships",
+      "longDescription": "In this project, I worked as a WordPress Developer responsible for building and extending custom functionalities for directory and eCommerce-based platforms. I customized and enhanced plugins such as Directorist and WooCommerce to meet specific business requirements, implemented advanced features using PHP, JavaScript, AJAX, and WordPress hooks, and developed custom plugins where needed. I handled complex logic related to user metadata, dashboard workflows, chat context handling, and dynamic pricing modifications. Additionally, I optimized performance, improved security practices, and ensured responsive, scalable solutions across all devices. My role required deep problem-solving, backend development, and close collaboration with design and content teams to deliver reliable and maintainable systems.",
+      "thumbnail": "projects/s4d1.png",
+      "images": [
+        "projects/s4d1.png",
+        "projects/s4d2.png",
+        "projects/s4d3.png",
+        "projects/s4d4.png",
+        "projects/s4d5.png",
+        "projects/s4d6.png"
+      ],
+      "techStack": ["WordPress", "PHP", "JavaScript", "Stripe", "HTML5", "CSS3", "MySQL", "REST APIs", "WooCommerce API"],
+      "status": "live",
+      "features": [
+        "Custom plugin development to support unique business workflows",
+        "Advanced customization of Directorist and WooCommerce functionality",
+        "AJAX-based dynamic features (live chat context handling, real-time updates)",
+        "Custom dashboard enhancements and profile management logic",
+        "Secure user meta data handling and protection against empty overwrites",
+        "Dynamic pricing modifications and checkout customizations",
+        "Third-party API integrations for external data synchronization",
+        "Performance optimization (query improvements, asset control, script optimization)",
+        "Responsive design adjustments for cross-device compatibility",
+        "Bug fixing and backend troubleshooting in production environments",
+        "WordPress hooks (actions & filters) implementation for scalable architecture"
+      ],
+      "liveUrl": "https://stay4dentist.com",
+      "githubUrl": ""
+    },
+    {
+      "id": 2,
+      "title": "Velena.ps eCommerce Store",
+      "description": "WordPress eCommerce website for accessories and beauty products with custom features",
+      "longDescription": "Velena.ps is an eCommerce platform selling accessories and beauty products, developed using WordPress. The project includes custom plugins to enhance user experience, such as a live engraving preview tool that allows users to type their name or text and see it displayed on products that are laser engravable. Additionally, a WhatsApp-based order tracking system was implemented to allow customers to easily track their orders and receive updates directly via WhatsApp, providing a seamless and interactive shopping experience.",
+      "thumbnail": "projects/velena2.png",
+      "images": [
+        "projects/velena1.png",
+        "projects/velena2.png",
+        "projects/velena3.png",
+        "projects/velena4.png",
+        "projects/velena5.png",
+        "projects/velena6.png",
+        "projects/velena7.png"
+      ],
+      "techStack": ["WordPress", "WooCommerce", "PHP", "JavaScript", "MySQL"],
+      "status": "live",
+      "features": [
+        "Responsive eCommerce website",
+        "Product catalog for accessories and beauty products",
+        "Custom plugin for live engraving preview",
+        "WhatsApp order tracking system",
+        "Secure checkout and payment integration",
+        "User account and order management",
+        "Product variations and customization options",
+        "Optimized UI/UX for better shopping experience"
+      ],
+      "liveUrl": "https://velena.ps"
+    },
+    {
+      "id": 3,
+      "title": "Caffeine eCommerce Website",
+      "description": "WordPress eCommerce website for coffee packs and brewing tools",
+      "longDescription": "Caffeine is a modern eCommerce platform developed using WordPress to sell coffee packs, capsules, and coffee brewing tools. The website is designed with a clean, responsive interface to provide a smooth shopping experience. It features organized product categories, secure checkout, inventory management via WooCommerce, and optimized performance for both desktop and mobile users.",
+      "thumbnail": "projects/caffeine1.png",
+      "images": [
+        "projects/caffeine1.png",
+        "projects/caffeine2.png",
+        "projects/caffeine3.png",
+        "projects/caffeine4.png",
+        "projects/caffeine5.png",
+        "projects/caffeine6.png",
+        "projects/caffeine7.png",
+        "projects/caffeine8.png"
+      ],
+      "techStack": ["WordPress", "WooCommerce", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "status": "in-progress",
+      "features": [
+        "Responsive WordPress eCommerce website",
+        "Organized product catalog for coffee packs and brewing tools",
+        "Secure checkout and payment integration",
+        "Inventory and order management via WooCommerce",
+        "Product variations (sizes, flavors, types)",
+        "User accounts and order tracking",
+        "SEO-optimized structure",
+        "Fast loading and mobile-friendly design"
+      ],
+      "liveUrl": "https://www.caffeine-zone.com"
+    },
+    {
+      "id": 4,
+      "title": "Jolany Center Website & Mobile App",
+      "description": "WordPress eCommerce platform with a cross-platform mobile shopping app",
+      "longDescription": "Jolany Center is a full-featured eCommerce solution for selling home devices and electronics. The project includes a WordPress-based online store powered by WooCommerce and a Flutter mobile application published on both the App Store and Google Play. The system provides seamless product browsing, secure checkout, order management, and real-time synchronization between the website and the mobile app.",
+      "thumbnail": "projects/jolany1.png",
+      "images": [
+        "projects/jolany1.png",
+        "projects/jolany2.png",
+        "projects/jolany3.png",
+        "projects/jolany4.png",
+        "projects/jolany5.png"
+      ],
+      "techStack": ["WordPress", "WooCommerce", "PHP", "Flutter", "REST API", "MySQL"],
+      "status": "live",
+      "features": [
+        "Responsive WordPress eCommerce website",
+        "WooCommerce product & order management",
+        "Secure checkout and payment integration",
+        "Category & product filtering",
+        "User accounts and order tracking",
+        "Cross-platform Flutter mobile app (iOS & Android)",
+        "Real-time product synchronization via REST API",
+        "Push notifications for offers and order updates"
+      ],
+      "liveUrl": "https://jolany-center.com"
+    },
+    {
+      "id": 5,
+      "title": "Food - فود Shopping App",
+      "description": "Cross-platform shopping app built with Flutter and WordPress",
+      "longDescription": "Food is a cross-platform eCommerce mobile application built with Flutter, connected to a WordPress backend using the WooCommerce REST API. The app delivers a smooth and intuitive shopping experience with a focus on performance, clean UI design, and seamless user flow. It allows customers to browse products, manage their cart, place secure orders, and track purchases in real time, while synchronizing dynamically with the WordPress store.",
+      "thumbnail": "projects/food1.png",
+      "images": [
+        "projects/food1.png",
+        "projects/food2.png",
+        "projects/food3.png"
+      ],
+      "techStack": ["Flutter", "WordPress", "WooCommerce API", "REST API", "PHP", "MySQL"],
+      "status": "live",
+      "features": [
+        "Cross-platform mobile app (Android & iOS)",
+        "WooCommerce REST API integration",
+        "Modern and user-friendly UI/UX design",
+        "Product categories and smart filtering",
+        "Cart and secure checkout flow",
+        "User authentication and profile management",
+        "Order history and real-time order tracking",
+        "Dynamic content synchronization with WordPress backend"
+      ],
+      "githubUrl": ""
+    },
+    {
+      "id": 6,
+      "title": "Hamasat eCommerce Website",
+      "description": "Beauty and cosmetics eCommerce platform built with WordPress and WooCommerce",
+      "longDescription": "Hamasat is a full-featured eCommerce website developed for Hamasat Company, the Middle East representative of the Music Flower brand. The platform is designed to showcase and sell face makeup and beauty cosmetics through a modern, responsive, and user-friendly interface. Built with WordPress and powered by WooCommerce, the website provides a smooth shopping experience with optimized product presentation, secure checkout, and efficient order management.",
+      "thumbnail": "projects/hamasat1.png",
+      "images": [
+        "projects/hamasat1.png",
+        "projects/hamasat2.png",
+        "projects/hamasat3.png",
+        "projects/hamasat4.png",
+        "projects/hamasat5.png",
+        "projects/hamasat6.png"
+      ],
+      "techStack": ["WordPress", "WooCommerce", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "status": "live",
+      "features": [
+        "Responsive beauty eCommerce website",
+        "Advanced product catalog for makeup and cosmetics",
+        "Brand-focused design aligned with Music Flower identity",
+        "Secure checkout and payment gateway integration",
+        "Product variations (shades, sizes, types)",
+        "Inventory and order management via WooCommerce",
+        "User accounts and order tracking",
+        "SEO optimization for better product visibility"
+      ],
+      "liveUrl": "https://hamasat.co"
+    },
+    {
+      "id": 7,
+      "title": "Perfect Agency Website",
+      "description": "Corporate website for a marketing and design agency built with WordPress",
+      "longDescription": "Perfect Agency is a professional company website developed for a marketing and creative agency offering services in marketing strategy, branding, design, consulting, and web development. The website was built using WordPress with a strong focus on clean design, service presentation, and lead generation. It highlights the agency's portfolio, showcases its expertise, and provides an optimized user journey to convert visitors into potential clients.",
+      "thumbnail": "projects/perfect1.jpeg",
+      "images": [
+        "projects/perfect1.jpeg",
+        "projects/perfect2.jpeg",
+        "projects/perfect3.jpeg",
+        "projects/perfect4.jpeg",
+        "projects/perfect5.jpeg"
+      ],
+      "techStack": ["WordPress", "PHP", "HTML", "CSS", "JavaScript", "Elementor"],
+      "status": "completed",
+      "features": [
+        "Modern and responsive corporate design",
+        "Service pages for marketing, consulting, and web design",
+        "Portfolio showcase section",
+        "Lead generation contact forms",
+        "SEO-optimized structure",
+        "Fast loading and performance optimization",
+        "Custom theme styling and layout customization"
+      ],
+      "githubUrl": ""
+    },
+    {
+      "id": 8,
+      "title": "Ibrahim Accessories eCommerce Website",
+      "description": "Online store for accessories and beauty products built with WordPress and WooCommerce",
+      "longDescription": "Ibrahim Accessories is a modern eCommerce website developed using WordPress and WooCommerce for selling fashion accessories and beauty products. The platform was designed to provide a smooth and visually appealing shopping experience, with organized product categories, secure checkout, and easy order management. The website focuses on clean UI, mobile responsiveness, and optimized performance to enhance customer engagement and conversions.",
+      "thumbnail": "projects/ibrahim1.png",
+      "images": [
+        "projects/ibrahim1.png",
+        "projects/ibrahim2.png",
+        "projects/ibrahim3.png",
+        "projects/ibrahim4.png"
+      ],
+      "techStack": ["WordPress", "WooCommerce", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "status": "live",
+      "features": [
+        "Responsive eCommerce website",
+        "Product categories for accessories and beauty items",
+        "Product variations (colors, sizes, types)",
+        "Secure checkout and payment gateway integration",
+        "User account registration and login",
+        "Order tracking and management",
+        "Discounts, offers, and coupon system",
+        "Performance and SEO optimization"
+      ],
+      "liveUrl": "https://ibrahim-accessories.com"
+    },
+    {
+      "id": 9,
+      "title": "Promax Electrical Devices Company Website",
+      "description": "Corporate product showcase website built with WordPress",
+      "longDescription": "Promax Electrical Devices Company website is a professional corporate platform developed using WordPress to present the company's electrical devices and product lines. The website focuses on structured product display, clear categorization, and strong brand presentation. It enables visitors to explore product specifications, browse categories, and easily contact the company for inquiries or partnerships. The design emphasizes clarity, performance, and responsiveness across all devices.",
+      "thumbnail": "projects/promax1.jpeg",
+      "images": [
+        "projects/promax1.jpeg",
+        "projects/promax2.jpeg",
+        "projects/promax3.jpeg",
+        "projects/promax4.jpeg",
+        "projects/promax5.jpeg"
+      ],
+      "techStack": ["WordPress", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "status": "live",
+      "features": [
+        "Corporate product showcase website",
+        "Structured product categories and specifications display",
+        "Product detail pages with technical information",
+        "Inquiry and contact forms for business communication",
+        "Responsive and mobile-friendly design",
+        "SEO-optimized structure",
+        "Performance and speed optimization"
+      ],
+      "liveUrl": "https://promax-e.com"
+    },
+    {
+      "id": 10,
+      "title": "Lady-in Store Application & Website",
+      "description": "Integrated WordPress eCommerce website with a cross-platform Flutter mobile application",
+      "longDescription": "Lady-in is a complete eCommerce solution that includes a WordPress-based online store and a cross-platform mobile application developed with Flutter. The platform is designed to provide a seamless and elegant shopping experience, offering product browsing, secure checkout, order tracking, and real-time synchronization between the website and the mobile app. The backend is powered by WooCommerce, exposing REST APIs consumed by the Flutter app to ensure dynamic content updates and smooth performance across Android and iOS devices.",
+      "thumbnail": "projects/lady1.jpeg",
+      "images": [
+        "projects/lady1.jpeg",
+        "projects/lady2.jpeg",
+        "projects/lady3.jpeg",
+        "projects/lady4.jpeg",
+        "projects/lady5.jpeg",
+        "projects/lady6.jpeg"
+      ],
+      "techStack": ["WordPress", "WooCommerce", "Flutter", "REST API", "PHP", "MySQL"],
+      "status": "completed",
+      "features": [
+        "Responsive WordPress eCommerce website",
+        "Cross-platform Flutter mobile app (Android & iOS)",
+        "WooCommerce REST API integration",
+        "Modern and user-friendly shopping interface",
+        "Product categories, variations, and filtering",
+        "Secure checkout and payment integration",
+        "User authentication and profile management",
+        "Order tracking and real-time data synchronization"
+      ],
+      "githubUrl": ""
+    },
+    {
+      "id": 11,
+      "title": "Nabra Project - University Senior Project",
+      "description": "Voice-recognition reading and hearing assessment system with data visualization",
+      "longDescription": "The Nabra Project is a comprehensive senior university project combining UI/UX design, Flutter Web frontend, and a PHP backend. The system enables educators to efficiently assess students' reading and hearing abilities through interactive modules. It features voice-recognition-based reading assessments, auditory-image matching for hearing tests, secure storage of results, and intuitive data visualizations. Role-based access ensures user privacy, while email-verified password reset functionality adds a layer of security.",
+      "thumbnail": "projects/nabra1.jpeg",
+      "images": [
+        "projects/nabra1.jpeg",
+        "projects/nabra2.jpeg",
+        "projects/nabra3.jpeg",
+        "projects/nabra4.jpeg",
+        "projects/nabra5.jpeg",
+        "projects/nabra6.jpeg",
+        "projects/nabra7.jpeg",
+        "projects/nabra8.jpeg"
+      ],
+      "techStack": ["Flutter Web", "PHP", "MySQL"],
+      "status": "completed",
+      "features": [
+        "Voice-recognition-based reading assessment",
+        "Hearing assessment with image-audio matching",
+        "Secure database storage of assessment results",
+        "Role-based access control for educators and students",
+        "Graphical data visualization of test results",
+        "User authentication and secure password reset via email",
+        "Intuitive UI/UX for web interface",
+        "Responsive design for multiple devices"
+      ],
+      "githubUrl": ""
+    },
+    {
+      "id": 12,
+      "title": "Driving Exam Test App",
+      "description": "Flutter-based mobile app simulating the official driving ministry exam with progress tracking and text-to-speech support",
+      "longDescription": "The Driving Exam Test App is a cross-platform mobile application built with Flutter and Hive DB that simulates the official driving ministry exam. It allows users to practice multiple-choice questions across different exam levels, track their progress, and review mistakes. The app includes a text-to-speech feature to assist users who have difficulty reading, provides immediate feedback by showing correct answers after each exam, and allows users to revisit incorrectly answered questions to improve learning outcomes.",
+      "thumbnail": "projects/driving1.png",
+      "images": [
+        "projects/driving1.png",
+        "projects/driving2.png"
+      ],
+      "techStack": ["Flutter", "Hive DB", "Dart", "Text-to-Speech"],
+      "status": "completed",
+      "features": [
+        "Simulates official driving ministry exam",
+        "30 multiple-choice questions per level",
+        "Progress tracking with Hive local database",
+        "Text-to-speech support for all questions",
+        "Immediate feedback with correct answers",
+        "Revision of wrongly answered questions",
+        "Multiple exam levels to practice",
+        "User-friendly and responsive mobile interface"
+      ],
+      "liveUrl": "https://www.youtube.com/watch?v=kn1I_RQiGag"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Full-Stack Developer Path",
+      "description": "Focused on skills from the JavaScript ecosystem, including React, Node, Express, Next, TypeScript, and even AI engineering.",
+      "issuedBy": "Scrimba",
+      "issuedAt": "2026",
+      "image": "/certificates/fullstack_path.png",
+      "pdfUrl": "/certificates/fullstack_path.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Experience Certificate - Wordpress Developer",
+      "description": "Gained hands-on experience in WordPress development, including website customization, plugin integration, and performance optimization.",
+      "issuedBy": "Orienteed Digital Solutions",
+      "issuedAt": "2025",
+      "image": "/certificates/orienteed.png",
+      "pdfUrl": "/certificates/orienteed_certificate.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Web Development Certificate",
+      "description": "Focused on web development fundamentals with HTML, CSS, and JavaScript, building a solid foundation for modern front-end and full-stack development.",
+      "issuedBy": "Gaza Sky Geeks",
+      "issuedAt": "2024",
+      "image": "/certificates/web_certificate.png",
+      "pdfUrl": "/certificates/Web_gsg.pdf"
+    },
+    {
+      "id": 4,
+      "title": "Experience Certificate - Sales Team Supervisor",
+      "description": "Focused on sales team leadership, performance management, customer engagement, and driving business growth through field sales strategies.",
+      "issuedBy": "Palestine Cellular Communications/JAWWAL",
+      "issuedAt": "2025",
+      "image": "/certificates/jawwal.png",
+      "pdfUrl": "/certificates/jawwal.pdf"
+    },
+    {
+      "id": 5,
+      "title": "EF SET English Certificate",
+      "description": "Achieved proficiency in English communication, enhancing professional and academic writing skills.",
+      "issuedBy": "EF SET",
+      "issuedAt": "2025",
+      "image": "/certificates/english-test.png",
+      "pdfUrl": "/certificates/english-test.pdf"
+    }
+  ]
+}
