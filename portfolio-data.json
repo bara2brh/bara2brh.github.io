@@ -79,7 +79,17 @@
         "projects/s4d5.png",
         "projects/s4d6.png"
       ],
-      "techStack": ["WordPress", "PHP", "JavaScript", "Stripe", "HTML5", "CSS3", "MySQL", "REST APIs", "WooCommerce API"],
+      "techStack": [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "Stripe",
+        "HTML5",
+        "CSS3",
+        "MySQL",
+        "REST APIs",
+        "WooCommerce API"
+      ],
       "status": "live",
       "features": [
         "Custom plugin development to support unique business workflows",
@@ -112,7 +122,13 @@
         "projects/velena6.png",
         "projects/velena7.png"
       ],
-      "techStack": ["WordPress", "WooCommerce", "PHP", "JavaScript", "MySQL"],
+      "techStack": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "JavaScript",
+        "MySQL"
+      ],
       "status": "live",
       "features": [
         "Responsive eCommerce website",
@@ -142,7 +158,15 @@
         "projects/caffeine7.png",
         "projects/caffeine8.png"
       ],
-      "techStack": ["WordPress", "WooCommerce", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "techStack": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "status": "in-progress",
       "features": [
         "Responsive WordPress eCommerce website",
@@ -169,7 +193,14 @@
         "projects/jolany4.png",
         "projects/jolany5.png"
       ],
-      "techStack": ["WordPress", "WooCommerce", "PHP", "Flutter", "REST API", "MySQL"],
+      "techStack": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "Flutter",
+        "REST API",
+        "MySQL"
+      ],
       "status": "live",
       "features": [
         "Responsive WordPress eCommerce website",
@@ -194,7 +225,14 @@
         "projects/food2.png",
         "projects/food3.png"
       ],
-      "techStack": ["Flutter", "WordPress", "WooCommerce API", "REST API", "PHP", "MySQL"],
+      "techStack": [
+        "Flutter",
+        "WordPress",
+        "WooCommerce API",
+        "REST API",
+        "PHP",
+        "MySQL"
+      ],
       "status": "live",
       "features": [
         "Cross-platform mobile app (Android & iOS)",
@@ -222,7 +260,15 @@
         "projects/hamasat5.png",
         "projects/hamasat6.png"
       ],
-      "techStack": ["WordPress", "WooCommerce", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "techStack": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "status": "live",
       "features": [
         "Responsive beauty eCommerce website",
@@ -249,7 +295,14 @@
         "projects/perfect4.jpeg",
         "projects/perfect5.jpeg"
       ],
-      "techStack": ["WordPress", "PHP", "HTML", "CSS", "JavaScript", "Elementor"],
+      "techStack": [
+        "WordPress",
+        "PHP",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Elementor"
+      ],
       "status": "completed",
       "features": [
         "Modern and responsive corporate design",
@@ -274,7 +327,15 @@
         "projects/ibrahim3.png",
         "projects/ibrahim4.png"
       ],
-      "techStack": ["WordPress", "WooCommerce", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "techStack": [
+        "WordPress",
+        "WooCommerce",
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "status": "live",
       "features": [
         "Responsive eCommerce website",
@@ -301,7 +362,14 @@
         "projects/promax4.jpeg",
         "projects/promax5.jpeg"
       ],
-      "techStack": ["WordPress", "PHP", "MySQL", "HTML", "CSS", "JavaScript"],
+      "techStack": [
+        "WordPress",
+        "PHP",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
       "status": "live",
       "features": [
         "Corporate product showcase website",
@@ -328,7 +396,14 @@
         "projects/lady5.jpeg",
         "projects/lady6.jpeg"
       ],
-      "techStack": ["WordPress", "WooCommerce", "Flutter", "REST API", "PHP", "MySQL"],
+      "techStack": [
+        "WordPress",
+        "WooCommerce",
+        "Flutter",
+        "REST API",
+        "PHP",
+        "MySQL"
+      ],
       "status": "completed",
       "features": [
         "Responsive WordPress eCommerce website",
@@ -358,7 +433,11 @@
         "projects/nabra7.jpeg",
         "projects/nabra8.jpeg"
       ],
-      "techStack": ["Flutter Web", "PHP", "MySQL"],
+      "techStack": [
+        "Flutter Web",
+        "PHP",
+        "MySQL"
+      ],
       "status": "completed",
       "features": [
         "Voice-recognition-based reading assessment",
@@ -382,7 +461,12 @@
         "projects/driving1.png",
         "projects/driving2.png"
       ],
-      "techStack": ["Flutter", "Hive DB", "Dart", "Text-to-Speech"],
+      "techStack": [
+        "Flutter",
+        "Hive DB",
+        "Dart",
+        "Text-to-Speech"
+      ],
       "status": "completed",
       "features": [
         "Simulates official driving ministry exam",
@@ -395,6 +479,300 @@
         "User-friendly and responsive mobile interface"
       ],
       "liveUrl": "https://www.youtube.com/watch?v=kn1I_RQiGag"
+    },
+    {
+      "id": 13,
+      "title": "Assembly: Endgame 🎮",
+      "description": "A fun word-guessing game",
+      "longDescription": "A fun word-guessing game built with React where players must guess the hidden word before all programming languages are eliminated and Assembly takes over.\r\n",
+      "thumbnail": "projects/image-2026-08-31-175114872-1788187965155.png",
+      "images": [
+        "projects/image-2026-08-31-175114872-1788187965155.png",
+        "projects/image-2026-08-31-175128481-1788187965156.png",
+        "projects/image-2026-08-31-175147857-1788187965157.png"
+      ],
+      "techStack": [
+        "React js",
+        "CSS",
+        "Javascript",
+        "clsx",
+        "react-confetti"
+      ],
+      "status": "live",
+      "features": [
+        "Random word generation",
+        "Interactive on-screen keyboard",
+        "Win and lose game states",
+        "Confetti celebration on victory",
+        "Dynamic farewell messages for eliminated languages",
+        "Responsive design"
+      ],
+      "liveUrl": "https://bara2brh.github.io/Assembly_game/"
+    },
+    {
+      "id": 14,
+      "title": "Tiny Library",
+      "description": "A cosy corner of the web where readers discover hand‑picked titles across every genre, from timeless classics to hidden indie gems.",
+      "longDescription": "Tiny Library is a small, curated book‑discovery site built with Next.js. Instead of endless algorithmic scrolling, it keeps the catalogue intentionally small so every book feels like a genuine recommendation. Visitors can browse the full collection, filter by category, search by title, and open a dedicated page for each book.",
+      "thumbnail": "projects/image-2026-08-31-180530826-1788188773253.png",
+      "images": [
+        "projects/image-2026-08-31-180530826-1788188773253.png",
+        "projects/image-2026-08-31-180540051-1788188773254.png",
+        "projects/image-2026-08-31-180544804-1788188773255.png",
+        "projects/image-2026-08-31-180552269-1788188773255.png",
+        "projects/image-2026-08-31-180557517-1788188773256.png"
+      ],
+      "techStack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "lucide-react",
+        "App Router"
+      ],
+      "status": "live",
+      "features": [
+        "Home page with a hero section and a call to action to browse books",
+        "Book catalogue with a responsive grid of book cards (cover, title, author, category, likes)",
+        "Search for books by title",
+        "Category filtering (fiction, non‑fiction, romance, fantasy, and more)",
+        "Book detail pages with cover, category, author, like count, and date added",
+        "About page describing the project's philosophy",
+        "Fully responsive layout, from mobile to desktop"
+      ],
+      "liveUrl": "https://tiny-library-nextjs-wine.vercel.app"
+    },
+    {
+      "id": 15,
+      "title": "Quizzical App",
+      "description": "A simple trivia quiz app built with React\r\n",
+      "longDescription": "A simple trivia quiz app built with React that fetches questions from the Open Trivia Database API. Users can select answers, check their score, and play again.",
+      "thumbnail": "projects/image-2026-08-31-180905211-1788188959899.png",
+      "images": [
+        "projects/image-2026-08-31-180905211-1788188959899.png",
+        "projects/image-2026-08-31-180911391-1788188959900.png",
+        "projects/image-2026-08-31-180918024-1788188959900.png"
+      ],
+      "techStack": [
+        "React JS",
+        "HTML 5",
+        "CSS 3",
+        "Javascript",
+        "Open Trivia DB API"
+      ],
+      "status": "live",
+      "features": [
+        "Fetches 5 random multiple-choice questions",
+        "Displays shuffled answers for each question",
+        "Highlights correct and wrong answers after submission",
+        "Score tracking",
+        "Play again functionality",
+        "Simple and responsive UI"
+      ],
+      "liveUrl": "https://bara2brh.github.io/Quizzical_App/"
+    },
+    {
+      "id": 16,
+      "title": "Gold Investing App Prototype",
+      "description": "A simple gold investing prototype application built with Node.js",
+      "longDescription": "A simple gold investing prototype application built with Node.js that displays live gold prices using Server-Sent Events (SSE) and logs user purchases.",
+      "thumbnail": "projects/image-2026-08-31-181353478-1788189241892.png",
+      "images": [
+        "projects/image-2026-08-31-181353478-1788189241892.png",
+        "projects/image-2026-08-31-181400052-1788189241892.png"
+      ],
+      "techStack": [
+        "Node.js",
+        "Vanilla JavaScript",
+        "Server-Sent Events (SSE)",
+        "HTML",
+        "CSS"
+      ],
+      "status": "live",
+      "features": [
+        "Live gold price updates using SSE",
+        "Simulated gold investment purchases",
+        "Purchase history logging",
+        "store purchase amount ,gold price at purchase time,gold sold in ounces,date and time of transaction",
+        "Clean and organized project structure",
+        "Node.js backend without frameworks"
+      ],
+      "githubUrl": "https://github.com/bara2brh/gold-digger-nodejs"
+    },
+    {
+      "id": 17,
+      "title": "PollyGlot AI Translator",
+      "description": "PollyGlot AI Translator is a lightweight web application that provides fast and smart text translation using AI",
+      "longDescription": "PollyGlot AI Translator is a lightweight web application that provides fast and smart text translation using AI.\r\nUsers can type any message, choose a target language, and instantly receive a natural translation in a clean chat-style interface.",
+      "thumbnail": "projects/image-2026-08-31-181855073-1788189575204.png",
+      "images": [
+        "projects/image-2026-08-31-181855073-1788189575204.png",
+        "projects/image-2026-08-31-181912555-1788189575204.png"
+      ],
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "OpenAI API"
+      ],
+      "status": "live",
+      "features": [
+        "100+ Supported Languages",
+        "AI-Powered Translation",
+        "Chat Interface",
+        "Automatic Source Language Detection",
+        "Arabic RTL Support",
+        "Responsive Design",
+        "Loading State Feedback",
+        "Secure Translation Prompting"
+      ],
+      "githubUrl": "https://github.com/bara2brh/pollyglot_ai_translator"
+    },
+    {
+      "id": 18,
+      "title": "Color Scheme Generator",
+      "description": "A simple, lightweight web app that generates a beautiful 5-color palette from any color you pick.",
+      "longDescription": "A simple, lightweight web app that generates a beautiful 5-color palette from any color you pick. Choose a base color, pick a scheme style, and get a matching palette you can use in your next design or project.",
+      "thumbnail": "projects/image-2026-08-31-182543980-1788189959149.png",
+      "images": [
+        "projects/image-2026-08-31-182543980-1788189959149.png",
+        "projects/image-2026-08-31-182557780-1788189959150.png"
+      ],
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (Vanilla)",
+        "The Color API"
+      ],
+      "status": "live",
+      "features": [
+        "Pick any base color with a native color picker",
+        "8 scheme styles: Monochrome, Monochrome-dark, Monochrome-light, Analogic, Complement, Analogic-complement, Triad, and Quad",
+        "Instantly generates a 5-color palette from The Color API",
+        "Clean, responsive, single-page interface"
+      ],
+      "liveUrl": "https://bara2brh.github.io/Color-Scheme-Generator/"
+    },
+    {
+      "id": 19,
+      "title": "Movie Watchlist",
+      "description": "Search for your favorite movies and save them to a personal watchlist to watch later",
+      "longDescription": "Search for your favorite movies and save them to a personal watchlist to watch later. Built as a simple, dependency-free frontend app powered by the OMDb API.",
+      "thumbnail": "projects/image-2026-08-31-183135704-1788190306389.png",
+      "images": [
+        "projects/image-2026-08-31-183135704-1788190306389.png",
+        "projects/image-2026-08-31-183143672-1788190306389.png"
+      ],
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (Vanilla)",
+        "OMDb API",
+        "Font Awesome"
+      ],
+      "status": "live",
+      "features": [
+        "Search for any movie by title",
+        "View results with poster, title, and details pulled live from the OMDb API",
+        "Add movies to a personal watchlist with one click",
+        "Dedicated watchlist page to review everything you've saved",
+        "Watchlist persists in the browser (no backend or account needed)",
+        "Responsive layout with Font Awesome icons"
+      ],
+      "liveUrl": "https://bara2brh.github.io/movie-watchlist"
+    },
+    {
+      "id": 20,
+      "title": "Blog website",
+      "description": "A simple responsive design for a blog website was implemented while practicing web design ",
+      "longDescription": "  ",
+      "thumbnail": "projects/image-2026-08-31-183608745-1788190576752.png",
+      "images": [
+        "projects/image-2026-08-31-183608745-1788190576752.png",
+        "projects/image-2026-08-31-183615088-1788190576753.png"
+      ],
+      "techStack": [
+        "HTML",
+        "CSS"
+      ],
+      "status": "live",
+      "features": [
+        "responsive design",
+        "CSS Grids",
+        "CSS Flex Box"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Simple password generator",
+      "description": "Just a Simple password generator",
+      "longDescription": "   ",
+      "thumbnail": "projects/image-2026-08-31-183801689-1788190784899.png",
+      "images": [
+        "projects/image-2026-08-31-183801689-1788190784899.png"
+      ],
+      "techStack": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "status": "live",
+      "features": [
+        "Generate Random Password",
+        "Choose how complex you need it to be",
+        "Click to copy to clipboard",
+        "Responsive Design"
+      ],
+      "liveUrl": "https://bara2brh.github.io/password-generator/"
+    },
+    {
+      "id": 22,
+      "title": "Rick & Morty Characters App",
+      "description": "I have created this project as a practice on Bloc Pattern and State Management",
+      "longDescription": "  ",
+      "thumbnail": "projects/image-2026-08-31-184321722-1788191245990.png",
+      "images": [
+        "projects/image-2026-08-31-184321722-1788191245990.png"
+      ],
+      "techStack": [
+        "Flutter",
+        "Dart",
+        "Dio Package",
+        "Bloc State Management",
+        "Rick and Morty API"
+      ],
+      "status": "live",
+      "features": [
+        "Clean Code",
+        "State Management",
+        "View series characters with info about each one",
+        "Search for your favorite character"
+      ],
+      "githubUrl": "https://github.com/bara2brh/Flutter_Bloc-Dio_Project"
+    },
+    {
+      "id": 23,
+      "title": "Students Data Manager App",
+      "description": "A simple flutter app i have created to help my father manage his students data ",
+      "longDescription": "  ",
+      "thumbnail": "projects/image-2026-08-31-191111779-1788193047181.png",
+      "images": [
+        "projects/image-2026-08-31-191111779-1788193047181.png",
+        "projects/image-2026-08-31-191244836-1788193047182.png",
+        "projects/image-2026-08-31-191324468-1788193047182.png"
+      ],
+      "techStack": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Local Storage"
+      ],
+      "status": "live",
+      "features": [
+        "Syncing data with firebase cloud",
+        "Add,remove,edit students",
+        "Works perfectly without internet"
+      ]
     }
   ],
   "certificates": [
@@ -427,6 +805,15 @@
     },
     {
       "id": 4,
+      "title": "System Design Fundamentals",
+      "description": "Gained experience in system design, including scalability, performance, and architecture principles.",
+      "issuedBy": "Pearson",
+      "issuedAt": "2026",
+      "image": "/certificates/sys_fund.png",
+      "pdfUrl": "/certificates/sys_fund.pdf"
+    },
+    {
+      "id": 5,
       "title": "Web Development Certificate",
       "description": "Focused on web development fundamentals with HTML, CSS, and JavaScript, building a solid foundation for modern front-end and full-stack development.",
       "issuedBy": "Gaza Sky Geeks",
@@ -435,7 +822,7 @@
       "pdfUrl": "/certificates/Web_gsg.pdf"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Experience Certificate - Sales Team Supervisor",
       "description": "Focused on sales team leadership, performance management, customer engagement, and driving business growth through field sales strategies.",
       "issuedBy": "Palestine Cellular Communications/JAWWAL",
@@ -444,7 +831,7 @@
       "pdfUrl": "/certificates/jawwal.pdf"
     },
     {
-      "id": 6,
+      "id": 7,
       "title": "EF SET English Certificate",
       "description": "Achieved proficiency in English communication, enhancing professional and academic writing skills.",
       "issuedBy": "EF SET",
