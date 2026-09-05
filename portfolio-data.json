@@ -181,6 +181,35 @@
       "liveUrl": "https://www.caffeine-zone.com"
     },
     {
+      "id": 17,
+      "title": "PollyGlot AI Translator",
+      "description": "PollyGlot AI Translator is a lightweight web application that provides fast and smart text translation using AI",
+      "longDescription": "PollyGlot AI Translator is a lightweight web application that provides fast and smart text translation using AI.\r\nUsers can type any message, choose a target language, and instantly receive a natural translation in a clean chat-style interface.",
+      "thumbnail": "projects/image-2026-08-31-181855073-1788189575204.png",
+      "images": [
+        "projects/image-2026-08-31-181855073-1788189575204.png",
+        "projects/image-2026-08-31-181912555-1788189575204.png"
+      ],
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "OpenAI API"
+      ],
+      "status": "live",
+      "features": [
+        "100+ Supported Languages",
+        "AI-Powered Translation",
+        "Chat Interface",
+        "Automatic Source Language Detection",
+        "Arabic RTL Support",
+        "Responsive Design",
+        "Loading State Feedback",
+        "Secure Translation Prompting"
+      ],
+      "githubUrl": "https://github.com/bara2brh/pollyglot_ai_translator"
+    },
+    {
       "id": 4,
       "title": "Jolany Center Website & Mobile App",
       "description": "WordPress eCommerce platform with a cross-platform mobile shopping app",
@@ -247,6 +276,42 @@
       "githubUrl": ""
     },
     {
+      "id": 24,
+      "title": "Loyalty Points System",
+      "description": "A loyalty points platform that helps stores reward customers, manage purchases and points, and send automated SMS notifications.",
+      "longDescription": "A multi-store loyalty management system where customers submit their information after purchases, while store owners manage purchase-based points, customers, transactions, and SMS notifications through a real-time dashboard. The platform also provides customizable customer screens and subscription management for stores.",
+      "thumbnail": "projects/mainseller-1788628764422.png",
+      "images": [
+        "projects/mainseller-1788628764422.png",
+        "projects/login-1788628764423.png",
+        "projects/showcustomers-1788628764424.png",
+        "projects/nocustomers-1788628764424.png",
+        "projects/recieveorder-1788628764425.png",
+        "projects/confirmpoints-1788628764425.png"
+      ],
+      "techStack": [
+        "Flutter",
+        "Laravel",
+        "Dart",
+        "SMS API",
+        "SQL"
+      ],
+      "status": "completed",
+      "features": [
+        "Customer loyalty points management",
+        "Real-time purchase/points requests",
+        "Automatic points calculation",
+        "Manual points adjustment and addition",
+        "Customer and transaction management",
+        "Purchase and points history",
+        "Automated SMS notifications",
+        "Customizable customer-facing screen",
+        "Configurable points calculation rules",
+        "Super Admin store & subscription management",
+        "Subscription-based access control"
+      ]
+    },
+    {
       "id": 6,
       "title": "Hamasat eCommerce Website",
       "description": "Beauty and cosmetics eCommerce platform built with WordPress and WooCommerce",
@@ -281,6 +346,40 @@
         "SEO optimization for better product visibility"
       ],
       "liveUrl": "https://hamasat.co"
+    },
+    {
+      "id": 11,
+      "title": "Nabra Project - University Senior Project",
+      "description": "Voice-recognition reading and hearing assessment system with data visualization",
+      "longDescription": "The Nabra Project is a comprehensive senior university project combining UI/UX design, Flutter Web frontend, and a PHP backend. The system enables educators to efficiently assess students' reading and hearing abilities through interactive modules. It features voice-recognition-based reading assessments, auditory-image matching for hearing tests, secure storage of results, and intuitive data visualizations. Role-based access ensures user privacy, while email-verified password reset functionality adds a layer of security.",
+      "thumbnail": "projects/nabra1.jpeg",
+      "images": [
+        "projects/nabra1.jpeg",
+        "projects/nabra2.jpeg",
+        "projects/nabra3.jpeg",
+        "projects/nabra4.jpeg",
+        "projects/nabra5.jpeg",
+        "projects/nabra6.jpeg",
+        "projects/nabra7.jpeg",
+        "projects/nabra8.jpeg"
+      ],
+      "techStack": [
+        "Flutter Web",
+        "PHP",
+        "MySQL"
+      ],
+      "status": "completed",
+      "features": [
+        "Voice-recognition-based reading assessment",
+        "Hearing assessment with image-audio matching",
+        "Secure database storage of assessment results",
+        "Role-based access control for educators and students",
+        "Graphical data visualization of test results",
+        "User authentication and secure password reset via email",
+        "Intuitive UI/UX for web interface",
+        "Responsive design for multiple devices"
+      ],
+      "githubUrl": ""
     },
     {
       "id": 7,
@@ -418,40 +517,6 @@
       "githubUrl": ""
     },
     {
-      "id": 11,
-      "title": "Nabra Project - University Senior Project",
-      "description": "Voice-recognition reading and hearing assessment system with data visualization",
-      "longDescription": "The Nabra Project is a comprehensive senior university project combining UI/UX design, Flutter Web frontend, and a PHP backend. The system enables educators to efficiently assess students' reading and hearing abilities through interactive modules. It features voice-recognition-based reading assessments, auditory-image matching for hearing tests, secure storage of results, and intuitive data visualizations. Role-based access ensures user privacy, while email-verified password reset functionality adds a layer of security.",
-      "thumbnail": "projects/nabra1.jpeg",
-      "images": [
-        "projects/nabra1.jpeg",
-        "projects/nabra2.jpeg",
-        "projects/nabra3.jpeg",
-        "projects/nabra4.jpeg",
-        "projects/nabra5.jpeg",
-        "projects/nabra6.jpeg",
-        "projects/nabra7.jpeg",
-        "projects/nabra8.jpeg"
-      ],
-      "techStack": [
-        "Flutter Web",
-        "PHP",
-        "MySQL"
-      ],
-      "status": "completed",
-      "features": [
-        "Voice-recognition-based reading assessment",
-        "Hearing assessment with image-audio matching",
-        "Secure database storage of assessment results",
-        "Role-based access control for educators and students",
-        "Graphical data visualization of test results",
-        "User authentication and secure password reset via email",
-        "Intuitive UI/UX for web interface",
-        "Responsive design for multiple devices"
-      ],
-      "githubUrl": ""
-    },
-    {
       "id": 12,
       "title": "Driving Exam Test App",
       "description": "Flutter-based mobile app simulating the official driving ministry exam with progress tracking and text-to-speech support",
@@ -543,6 +608,30 @@
       "liveUrl": "https://tiny-library-nextjs-wine.vercel.app"
     },
     {
+      "id": 25,
+      "title": "Health Care Dashboard Design",
+      "description": "A Front-End design for a health care dashboard ",
+      "longDescription": " ",
+      "thumbnail": "projects/screenshot-2026-09-05-175824-1788629836068.png",
+      "images": [
+        "projects/screenshot-2026-09-05-175824-1788629836068.png",
+        "projects/screenshot-2026-09-05-180138-1788629836069.png",
+        "projects/screenshot-2026-09-05-180344-1788629836069.png"
+      ],
+      "techStack": [
+        "React.js",
+        "TypeScript",
+        "Charts.js"
+      ],
+      "status": "completed",
+      "features": [
+        "Responsive Design",
+        "Modern Dashboard",
+        "Clean Code Architecture",
+        "Clean Design"
+      ]
+    },
+    {
       "id": 15,
       "title": "Quizzical App",
       "description": "A simple trivia quiz app built with React\r\n",
@@ -572,6 +661,55 @@
       "liveUrl": "https://bara2brh.github.io/Quizzical_App/"
     },
     {
+      "id": 23,
+      "title": "Students Data Manager App",
+      "description": "A simple flutter app i have created to help my father manage his students data ",
+      "longDescription": "  ",
+      "thumbnail": "projects/image-2026-08-31-191111779-1788193047181.png",
+      "images": [
+        "projects/image-2026-08-31-191111779-1788193047181.png",
+        "projects/image-2026-08-31-191244836-1788193047182.png",
+        "projects/image-2026-08-31-191324468-1788193047182.png"
+      ],
+      "techStack": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Local Storage"
+      ],
+      "status": "live",
+      "features": [
+        "Syncing data with firebase cloud",
+        "Add,remove,edit students",
+        "Works perfectly without internet"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Color Scheme Generator",
+      "description": "A simple, lightweight web app that generates a beautiful 5-color palette from any color you pick.",
+      "longDescription": "A simple, lightweight web app that generates a beautiful 5-color palette from any color you pick. Choose a base color, pick a scheme style, and get a matching palette you can use in your next design or project.",
+      "thumbnail": "projects/image-2026-08-31-182543980-1788189959149.png",
+      "images": [
+        "projects/image-2026-08-31-182543980-1788189959149.png",
+        "projects/image-2026-08-31-182557780-1788189959150.png"
+      ],
+      "techStack": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (Vanilla)",
+        "The Color API"
+      ],
+      "status": "live",
+      "features": [
+        "Pick any base color with a native color picker",
+        "8 scheme styles: Monochrome, Monochrome-dark, Monochrome-light, Analogic, Complement, Analogic-complement, Triad, and Quad",
+        "Instantly generates a 5-color palette from The Color API",
+        "Clean, responsive, single-page interface"
+      ],
+      "liveUrl": "https://bara2brh.github.io/Color-Scheme-Generator/"
+    },
+    {
       "id": 16,
       "title": "Gold Investing App Prototype",
       "description": "A simple gold investing prototype application built with Node.js",
@@ -598,60 +736,6 @@
         "Node.js backend without frameworks"
       ],
       "githubUrl": "https://github.com/bara2brh/gold-digger-nodejs"
-    },
-    {
-      "id": 17,
-      "title": "PollyGlot AI Translator",
-      "description": "PollyGlot AI Translator is a lightweight web application that provides fast and smart text translation using AI",
-      "longDescription": "PollyGlot AI Translator is a lightweight web application that provides fast and smart text translation using AI.\r\nUsers can type any message, choose a target language, and instantly receive a natural translation in a clean chat-style interface.",
-      "thumbnail": "projects/image-2026-08-31-181855073-1788189575204.png",
-      "images": [
-        "projects/image-2026-08-31-181855073-1788189575204.png",
-        "projects/image-2026-08-31-181912555-1788189575204.png"
-      ],
-      "techStack": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "OpenAI API"
-      ],
-      "status": "live",
-      "features": [
-        "100+ Supported Languages",
-        "AI-Powered Translation",
-        "Chat Interface",
-        "Automatic Source Language Detection",
-        "Arabic RTL Support",
-        "Responsive Design",
-        "Loading State Feedback",
-        "Secure Translation Prompting"
-      ],
-      "githubUrl": "https://github.com/bara2brh/pollyglot_ai_translator"
-    },
-    {
-      "id": 18,
-      "title": "Color Scheme Generator",
-      "description": "A simple, lightweight web app that generates a beautiful 5-color palette from any color you pick.",
-      "longDescription": "A simple, lightweight web app that generates a beautiful 5-color palette from any color you pick. Choose a base color, pick a scheme style, and get a matching palette you can use in your next design or project.",
-      "thumbnail": "projects/image-2026-08-31-182543980-1788189959149.png",
-      "images": [
-        "projects/image-2026-08-31-182543980-1788189959149.png",
-        "projects/image-2026-08-31-182557780-1788189959150.png"
-      ],
-      "techStack": [
-        "HTML5",
-        "CSS3",
-        "JavaScript (Vanilla)",
-        "The Color API"
-      ],
-      "status": "live",
-      "features": [
-        "Pick any base color with a native color picker",
-        "8 scheme styles: Monochrome, Monochrome-dark, Monochrome-light, Analogic, Complement, Analogic-complement, Triad, and Quad",
-        "Instantly generates a 5-color palette from The Color API",
-        "Clean, responsive, single-page interface"
-      ],
-      "liveUrl": "https://bara2brh.github.io/Color-Scheme-Generator/"
     },
     {
       "id": 19,
@@ -749,30 +833,6 @@
         "Search for your favorite character"
       ],
       "githubUrl": "https://github.com/bara2brh/Flutter_Bloc-Dio_Project"
-    },
-    {
-      "id": 23,
-      "title": "Students Data Manager App",
-      "description": "A simple flutter app i have created to help my father manage his students data ",
-      "longDescription": "  ",
-      "thumbnail": "projects/image-2026-08-31-191111779-1788193047181.png",
-      "images": [
-        "projects/image-2026-08-31-191111779-1788193047181.png",
-        "projects/image-2026-08-31-191244836-1788193047182.png",
-        "projects/image-2026-08-31-191324468-1788193047182.png"
-      ],
-      "techStack": [
-        "Flutter",
-        "Dart",
-        "Firebase",
-        "Local Storage"
-      ],
-      "status": "live",
-      "features": [
-        "Syncing data with firebase cloud",
-        "Add,remove,edit students",
-        "Works perfectly without internet"
-      ]
     }
   ],
   "certificates": [
